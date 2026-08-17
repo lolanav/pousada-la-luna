@@ -1,0 +1,13 @@
+POUSADA LA LUNA — sitio web (6 páginas)
+
+IDIOMAS: Português / Español / English (desktop: botones; mobile: desplegable).
+RESPONSIVE: celular, tablet y computadora. En mobile: logo centrado + menú hamburguesa; hero se pasa deslizando.
+
+FORMULARIOS: Contato y Depoimentos conectados a Web3Forms.
+  - Los mensajes llegan a: pousadalaluna1@gmail.com
+  - Access key ya configurada en el código.
+  - Muestran confirmación en pantalla (PT/ES/EN) al enviar.
+
+VER: doble clic en "index.html".
+LINK RESERVAR: assets/site.js -> const RESERVE_URL = "https://sbreserva.silbeck.com.br/lalunavillage";
+ALOJAR: Wix Headless (wix.com/headless/drop) o Vercel — arrastrás la carpeta/ZIP.
